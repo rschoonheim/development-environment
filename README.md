@@ -6,8 +6,8 @@ Personal development environment setup for Ubuntu 24.04 LTS.
 
 
 ## Installation
-To install the development environment, run the following command:
+To install the development environment run the following script in your terminal.
+
 ```bash
-curl -s https://raw.githubusercontent.com/rschoonheim/development-environment/master/install.sh | bash
 ```
 
